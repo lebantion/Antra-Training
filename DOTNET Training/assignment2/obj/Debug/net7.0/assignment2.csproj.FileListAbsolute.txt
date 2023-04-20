@@ -1,0 +1,15 @@
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/bin/Debug/net7.0/assignment2
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/bin/Debug/net7.0/assignment2.deps.json
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/bin/Debug/net7.0/assignment2.runtimeconfig.json
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/bin/Debug/net7.0/assignment2.dll
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/bin/Debug/net7.0/assignment2.pdb
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/assignment2.csproj.AssemblyReference.cache
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/assignment2.AssemblyInfoInputs.cache
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/assignment2.AssemblyInfo.cs
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/assignment2.csproj.CoreCompileInputs.cache
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/assignment2.dll
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/refint/assignment2.dll
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/assignment2.pdb
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/assignment2.genruntimeconfig.cache
+/Users/tailed/Desktop/ANTRA TRAINING/DOTNET Training/assignment2/obj/Debug/net7.0/ref/assignment2.dll
